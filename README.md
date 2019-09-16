@@ -8,6 +8,7 @@ test
 ## Methods *: How did we go about solving it?*
 
 ## Results *: What did we observe? Figures are great!*
+http://146.148.79.43:8787/files/Plot%20Images/SLIT1%20Expression.jpeg
 
 ## Conclusion/Discussion: 
 
